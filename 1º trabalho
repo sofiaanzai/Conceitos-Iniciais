@@ -1,0 +1,14 @@
+Trabalho de Programação 7º período - Sofia Anzai
+
+1) Forneça a definição do termo ARQUIVO, no contexto da computação. 
+R: Um arquivo é uma unidade básica de armazenamento de dados, mantida em um dispositivo de armazenamento, podendo conter qualquer tipo de informação, incluindo imagens, vídeos, textos etc. Eles são organizados em pastas, conhecidos como diretórios, dentro de uma hierarquia de arquivos no sistema de arquivos do computador. 
+
+2) O que é um ARQUIVO DE TEXTO?
+R: É um tipo de arquivo que contém informações, armazenamento de dados e compartilhamentos de documentos em formato de um texto simples, ou seja, interpretadas como um texto legível para nós, humanos, e processadas por computadores de forma direta, sem a necessidade de aplicativos mais específicos. Pode conter variedades de documentos, registros de dados, códigos, etc. Um exemplo é o Bloco de Notas que temos nos nossos computadores.  
+
+3) Explique o que é uma VARIÁVEL, no contexto da programação de computadores.
+R: A variável é um espaço de armazenamento que pode conter dados, os quais podem ser alterados durante a execução de um programa. Cada uma das variáveis tem seu nome próprio e único, usada para se referir ao longo do código do programa. Elas podem armazenar vários tipos de dados, como números inteiros ou não, características, objetos mais complexos, etc.
+
+4) Explique o que seria um SERVIDOR, no contexto da computação.
+R: O servidor é um computador(es) dedicado a fornecer serviços, recursos ou dados para outros computadores, cliente, por meio de uma rede. Cada servidor criado é projetado para fornecer um tipo específico serviços, como por exemplo: Servidores de e-mail, de banco de dados, de arquivos, de aplicativos, etc. Ademais, eles são programados para estarem disponíveis sempre para os clientes que o utilizam. 
+
