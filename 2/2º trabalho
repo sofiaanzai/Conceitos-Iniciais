@@ -1,0 +1,16 @@
+Trabalho programação 7º período - Sofia Anzai 
+
+Encontre referências e comente: 
+a) A relação entre a LGPD e os Data Centers no Brasil
+R: Os Data Centers (Centro de Processamento de Dados) estão incluídos nas adequações da LGPD (Lei Geral de Proteção de Dados). O Data Centers é um conjunto de equipamentos utilizados para o processamento e armazenamento de dados, sistemas e aplicações. A estrutura, geralmente, engloba servidores, bancos de dados, armazenamento e processamento de dados e outras ferramentas físicas e digitais. Além disso, uma das principais funções de um Data Center é assegurar que os dados e sistemas hospedados nele possam ser acessados a qualquer momento. Eles são responsáveis por armazenar grande quantidade de dados, incluindo aqueles protegidos pela LGPD. Portanto, os Data Centers devem adotar medidas de segurança adequdas para proteger as informações contra acesso não autorizado, etc. 
+
+b) Formatos de arquivos de dados proprietários e abertos
+R: Um formato aberto indica uma especificação técnica de domínio público usada para a descrição e armazenamento de dados, livre de restrições para o uso. Garante o acesso aos dados a longo prazo sem inseguranças. Já formator proprietários são definidos por interesses privados, correndo o rsco de perder todas as informações contidas no arquivo. Os abertos tendem a ter uma vida útil mais longa, pois são suportados por uma comunidade mais ampla de usuários, garantindo o acesso seguruo e longevidade. Os proprietários estão sujeitos às decisões comerciais dos fabricantes, que pode resultar em uma descontinuação ou mudanças incompatíveis. Vemos, assim, que o formato aberto oferece, geralmente, vantagens em relação ao formato proprietário. 
+
+b.1) Forneça exemplos de formatos 
+R: Formatos abertos são "Comma-Separated Value"; "JavaScript Object Notation"; "PDF", etc. Formatos proprietários são "Microsoft Word"; "Adobe"; "Excel", etc.
+
+b.2) Discuta as implicações relacionadas a dados públicos 
+R: O formato aberto tem seus dados acessados e utilizados por uma variedade de sistemas e aplicativos diferentes, não requerendo software específico ou licenças para a visualização ou manipulação, sendo um dado público mais acessível. Já no formato proprietário os dados são sujeitos à dependência do fornecedor do sftware para visualização e manipulação, podendo ter restrição de licenciamento e uso, ou até mesmo envolver custos para tal, dificultando o fácil acesso a dados públicos.  
+
+c) Inclua seus comentários no arquivo de texto NO githu
